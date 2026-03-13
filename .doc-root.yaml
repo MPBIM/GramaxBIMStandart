@@ -1,5 +1,9 @@
-title: GramaxBIMStandart
+title: Стандарт BIM
 optionalCategoryIndex: true
 supportedLanguages:
   - ru
 properties: []
+language: ru
+description: Стандарт информационного моделирования "Моспроект"
+style: blue
+logo: bim (1).png
