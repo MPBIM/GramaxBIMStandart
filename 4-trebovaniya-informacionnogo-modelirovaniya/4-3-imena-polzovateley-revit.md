@@ -5,13 +5,9 @@ title: 4.3 Имена пользователей Revit
 
 Имя пользователя в приложении Revit должно соответствовать следующей организационной схеме:
 
-[highlight:lemon-yellow]**Фамилия**[/highlight]\_[highlight:mint-green]**Имя**[/highlight]\_[highlight:lavender]**Отчество**[/highlight]\_[highlight:ice-blue]**Роль**[/highlight]
+[highlight:lemon-yellow]Фамилия[/highlight]\_[highlight:mint-green]Имя[/highlight]\_[highlight:lavender]Отчество[/highlight]\_[highlight:ice-blue]Роль[/highlight]
 
-:::info 
-
-Пример: Иванов\_Петр\_Александрович\_АР
-
-:::
+**Пример:** Иванов\_Петр\_Александрович\_АР
 
 {% table header="row" %}
 
