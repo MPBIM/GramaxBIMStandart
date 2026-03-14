@@ -1,6 +1,6 @@
 ---
 order: 0.5
-title: О документе
+title: О ДОКУМЕНТЕ
 ---
 
 ![](./zagolovok-1.png){width=1990px height=480px}
