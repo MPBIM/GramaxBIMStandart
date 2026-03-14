@@ -2,7 +2,11 @@ title: Стандарт BIM
 optionalCategoryIndex: true
 supportedLanguages:
   - ru
-properties: []
+properties:
+  - name: Раздел
+    type: Flag
+    style: green
+    icon: book-up
 language: ru
 description: Стандарт информационного моделирования "Моспроект"
 style: blue
