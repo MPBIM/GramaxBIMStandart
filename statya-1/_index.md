@@ -1,6 +1,6 @@
 ---
 order: 1
-title: Раздел 2
+title: 1. Общие положения информационного моделирования
 ---
 
-<view defs="hierarchy=none" display="List"/>
+[view:hierarchy=none::::List]
