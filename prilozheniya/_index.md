@@ -1,7 +1,8 @@
 ---
 order: 6
-title: ПРИЛОЖЕНИЯ
+title: Приложения
 properties:
   - name: Раздел
 ---
 
+[view:hierarchy=none::::List]
