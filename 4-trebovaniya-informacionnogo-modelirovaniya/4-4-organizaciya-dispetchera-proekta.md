@@ -135,7 +135,7 @@ title: 4.4 Организация диспетчера проекта
 
 -  [highlight:lemon-yellow]​04\_АГР[/highlight] – оформленные виды листов архитектурно-градостроительного решения.
 
-Для моделей раздела **КР** (конструктивные решения) в связи с разделением моделей по стадиям (п. 2.2 настоящего стандарта) будет присутствовать только одна группа ([highlight:lemon-yellow]04\_ПД[/highlight] или [highlight:lemon-yellow]04\_РД[/highlight]).
+Для моделей раздела **КР** (конструктивные решения) в связи с разделением моделей по стадиям ([п. 2.2 настоящего стандарта](./../2-principy-organizacii-informacionnogo-modelirov/2-2-faylovaya-struktura-proekta)) будет присутствовать только одна группа ([highlight:lemon-yellow]04\_ПД[/highlight] или [highlight:lemon-yellow]04\_РД[/highlight]).
 
 :::info 
 
@@ -231,7 +231,7 @@ title: 4.4 Организация диспетчера проекта
 
 -  [highlight:lemon-yellow]​03\_АГР[/highlight] – оформленные виды листов архитектурно-градостроительного решения.
 
-Для моделей раздела **КР** (конструктивные решения) в связи с разделением моделей по стадиям (п. 2.2 настоящего стандарта) будет присутствовать только одна группа ([highlight:lemon-yellow]04\_ПД[/highlight] или [highlight:lemon-yellow]04\_РД[/highlight]).
+Для моделей раздела **КР** (конструктивные решения) в связи с разделением моделей по стадиям ([п. 2.2 настоящего стандарта](./../2-principy-organizacii-informacionnogo-modelirov/2-2-faylovaya-struktura-proekta)) будет присутствовать только одна группа ([highlight:lemon-yellow]04\_ПД[/highlight] или [highlight:lemon-yellow]04\_РД[/highlight]).
 
 :::info 
 
@@ -303,7 +303,7 @@ title: 4.4 Организация диспетчера проекта
 
 -  [highlight:lemon-yellow]​АГР[/highlight] – оформленные виды листов архитектурно-градостроительного решения.
 
-Для моделей раздела **КР** (конструктивные решения) в связи с разделением моделей по стадиям (п. 2.2 настоящего стандарта) будет присутствовать только одна группа ([highlight:lemon-yellow]04\_ПД[/highlight] или [highlight:lemon-yellow]04\_РД[/highlight]).
+Для моделей раздела **КР** (конструктивные решения) в связи с разделением моделей по стадиям ([п. 2.2 настоящего стандарта](./../2-principy-organizacii-informacionnogo-modelirov/2-2-faylovaya-struktura-proekta)) будет присутствовать только одна группа ([highlight:lemon-yellow]04\_ПД[/highlight] или [highlight:lemon-yellow]04\_РД[/highlight]).
 
 :::info 
 

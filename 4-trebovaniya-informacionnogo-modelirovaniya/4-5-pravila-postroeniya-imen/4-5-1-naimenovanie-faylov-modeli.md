@@ -5,13 +5,13 @@ title: 4.5.2 Наименование файлов модели
 
 :::info 
 
-Общие правила построения имен и требования отражены в п.4.5.1 настоящего стандарта.
+Общие правила построения имен и требования отражены в [п.4.5.1 настоящего стандарта](./4-5-1-obschie-pravila-naimenovaniya).
 
 :::
 
 ## Наименование основных файлов модели
 
-Наименование основных файлов модели (п. 2.2 настоящего стандарта) должно соответствовать следующей схеме (опциональные поля помечены символом \*):
+Наименование основных файлов модели ([п. 2.2 настоящего стандарта](./../../2-principy-organizacii-informacionnogo-modelirov/2-2-faylovaya-struktura-proekta)) должно соответствовать следующей схеме (опциональные поля помечены символом \*):
 
 [highlight:lemon-yellow]Компания[/highlight]\_[highlight:mint-green]Тип[/highlight]\_[highlight:lavender]Код проекта[/highlight]\_[highlight:light-pink]Зона\*[/highlight]\_[highlight:light-pink]Корпус\*[/highlight]\_[highlight:light-pink]Секция или Блок\*[/highlight]\_[highlight:ice-blue]Раздел[/highlight]\_[highlight:light-pink]Стадия\*[/highlight]\_[highlight:light-pink]Дополнение\*[/highlight]\_[highlight:peach]ПО[/highlight]
 
